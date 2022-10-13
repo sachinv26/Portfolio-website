@@ -65,6 +65,7 @@ particlesJS("particles-js", {
           "rotateX": 600,
           "rotateY": 1200
         }
+          
       }
     },
     "interactivity": {
